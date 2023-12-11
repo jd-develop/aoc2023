@@ -23,7 +23,6 @@ def empty_column(i, unparsed_list):
 
 
 def space_expension(unparsed_list, times_larger: int = 2):
-    """Return the input list with more space"""
     list_to_return = []
     lines_count = 0
     galaxy_count = 0
